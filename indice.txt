@@ -1,0 +1,40 @@
+Capítulo 1
+Introduccion a Git
+
+Git es un software de control de versiones diseñado por Linus Torvalds, 
+pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento
+de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+Su propósito es llevar registro de los cambios en archivos de computadora incluyendo 
+coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio 
+de código.
+
+Capítulo 2
+Flujo de Trabajo Básico
+
+Git es el sistema de control de versiones más utilizado actualmente. Un flujo de trabajo de Git 
+es una fórmula o una recomendación sobre cómo usar Git para llevar a cabo el trabajo de forma 
+homogénea y productiva. Los flujos de trabajo de Git animan a los desarrolladores y a los equipos
+de DevOps a sacar partido a Git de forma eficaz y estable. Git ofrece a los usuarios una amplia 
+flexibilidad para gestionar los cambios. 
+
+Capítulo 3
+Gestión de ramas
+
+Cualquier sistema de control de versiones moderno tiene algún mecanismo para soportar distintas 
+ramas. Cuando hablamos de branching o trabajo con ramas, significa que tu has tomado la rama 
+principal de desarrollo (master) y a partir de ahí has continuado trabajando sin seguir la rama 
+principal de desarrollo. En muchos sistemas de control de versiones este proceso es costoso, pues 
+a menudo significa crear una nueva copia del código, lo cual puede requerir mucho tiempo cuando 
+se trata de proyectos grandes.
+
+Capítulo 4 
+Repositorios remotos
+
+Para poder colaborar en cualquier proyecto Git, necesitas saber cómo gestionar repositorios remotos.
+Los repositorios remotos son versiones de tu proyecto que están hospedadas en Internet o en cualquier
+otra red. Puedes tener varios de ellos, y en cada uno tendrás generalmente permisos de solo lectura
+o de lectura y escritura. Colaborar con otras personas implica gestionar estos repositorios remotos 
+enviando y trayendo datos de ellos cada vez que necesites compartir tu trabajo. 
+Gestionar repositorios remotos incluye saber cómo añadir un repositorio remoto, eliminar los remotos 
+que ya no son válidos, gestionar varias ramas remotas, definir si deben rastrearse o no y más. 
+En esta sección, trataremos algunas de estas habilidades de gestión de remotos.

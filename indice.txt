@@ -37,4 +37,4 @@ o de lectura y escritura. Colaborar con otras personas implica gestionar estos r
 enviando y trayendo datos de ellos cada vez que necesites compartir tu trabajo. 
 Gestionar repositorios remotos incluye saber cómo añadir un repositorio remoto, eliminar los remotos 
 que ya no son válidos, gestionar varias ramas remotas, definir si deben rastrearse o no y más. 
-En esta sección, trataremos algunas de estas habilidades de gestión de remotos.
+

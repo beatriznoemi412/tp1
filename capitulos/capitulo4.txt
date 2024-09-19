@@ -1,0 +1,8 @@
+capitulo4
+Géneros.
+Los libros de Aventuras.
+Los libros de Ciencia Ficcion.
+Los libros Infantiles
+Los libros de Terror.
+Los libros Históricos.
+Los libros Científicos.
